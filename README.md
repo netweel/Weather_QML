@@ -1,0 +1,1 @@
+## The application "Weather" in which you can find out the weather in any selected city.Created with QML.
